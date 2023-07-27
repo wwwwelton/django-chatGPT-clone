@@ -15,13 +15,13 @@ freeCodeCamp released [Use Django to Code a ChatGPT Clone course](https://www.yo
 
 **Follow the steps below**
 ```bash
-# Install dependencies
-pip3 install django
-pip3 install openai
-
 # Clone the project and access the folder
 git clone https://github.com/wwwwelton/django-chatGPT-clone && \
 cd django-chatGPT-clone
+
+# Install dependencies
+pip3 install django
+pip3 install openai
 
 # Run app
 python3 manage.py runserver
