@@ -6,7 +6,7 @@
 freeCodeCamp released [Use Django to Code a ChatGPT Clone course](https://www.youtube.com/watch?v=qrZGfBBlXpk) on the freeCodeCamp.org [YouTube channel](https://www.youtube.com/@freecodecamp) by Tomi Tokko. This course focuses on using [Django](https://www.djangoproject.com/), a high-level [Python](https://www.python.org/) web framework, and the [OpenAI API](https://openai.com/) to create a clone of the popular AI chatbot, [ChatGPT](https://chat.openai.com/).
 
 #### Demo
-![alt text](./images/demo.png)
+![alt text](./images/demo.gif)
 
 ## Getting started
 **Requirements:**
